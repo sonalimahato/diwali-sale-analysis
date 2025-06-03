@@ -1,0 +1,7 @@
+Tools Used
+
+- Python 
+- Pandas
+- NumPy
+- Seaborn / Matplotlib 
+- Jupyter Notebook
